@@ -13,9 +13,10 @@ Usage example:
 `python grape_classificator.py example.jpg`
 
 
-[Preprint](http://dx.doi.org/10.13140/RG.2.2.28662.31044)
 
 To use this work, please cite:
+
+[Preprint](http://dx.doi.org/10.13140/RG.2.2.28662.31044)
 
 ```
 @UNPUBLISHED{Poggiali2025-mc,
@@ -27,5 +28,7 @@ To use this work, please cite:
 }
 ```
 
+
+---------------------
 
 This study was carried out within the Agritech National Research Center and received funding from the European Union Next-GenerationEU (PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR) – MISSIONE 4 COMPONENTE 2, INVESTIMENTO 1.4 – D.D. 1032 17/06/2022, CN00000022, CUP: C33C22000250001). This work reflects only the authors’ views and opinions, neither the European Union nor the European Commission can be considered responsible for them.
