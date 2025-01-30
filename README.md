@@ -4,6 +4,15 @@
 
 Automatic phenological classification of southern Italy winegrape.
 
+Installation:
+
+`pip install -r requirements.txt`
+
+Usage example:
+
+`python grape_classificator.py example.jpg`
+
+
 [Preprint](http://dx.doi.org/10.13140/RG.2.2.28662.31044)
 
 To use this work, please cite:
